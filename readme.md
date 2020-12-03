@@ -1,8 +1,8 @@
 ![Manash Bharali](images/cover.jpg)
 
 
-<h2>Hello, I'm</h2>
-<h1>Manash Bharali
+<h1>Hello, I'm</br>
+Manash Bharali
 <br> 
 <small>Web Developer and Laravel Developer</small></h1>
 
