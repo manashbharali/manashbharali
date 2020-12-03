@@ -12,8 +12,13 @@ Manash Bharali
 
 <p>
 I’m always trying to learn new things to make myself a better developer and adding on to my web stack and chasing my dream of becoming a Lead developer.
+</p>
 
-Here are a few technologies I've been working with recently
+</br>
+</br>
+
+<p align="center">
+&dash; K E E P  &nbsp;&nbsp;  C O D I N G &dash;
 </p>
 
 <div align="center">
