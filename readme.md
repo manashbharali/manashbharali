@@ -1,4 +1,4 @@
-<a href="https:://manashbharali.ml">
+<a href="https://manashbharali.ml/">
 <img src="images/cover.jpg" width="100%">
 </a>
 
@@ -33,7 +33,7 @@ I’m always trying to learn new things to make myself a better developer and ad
 </br>
 
 <p>
-    <a href="https:://manashbharali.ml">
+    <a href="https://manashbharali.ml/">
         https:://manashbharali.ml
     </a>
 </p>
