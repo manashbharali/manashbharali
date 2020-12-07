@@ -1,5 +1,6 @@
-![Manash Bharali](images/cover.jpg)
-
+<a href="https:://manashbharali.ml">
+<img src="images/cover.jpg" width="100%">
+</a>
 
 <h1>Hello, I'm</br>
 Manash Bharali
@@ -27,5 +28,14 @@ I’m always trying to learn new things to make myself a better developer and ad
 <a href="https://github.com/manashbharali">Github</a> &nbsp;&nbsp;
 <a href="https://twitter.com/manash__">Twitter</a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/manashbharali">Linkedin</a>
+
+</br>
+</br>
+
+<p>
+    <a href="https:://manashbharali.ml">
+        https:://manashbharali.ml
+    </a>
+</p>
 
 </div>
