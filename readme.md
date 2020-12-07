@@ -34,7 +34,7 @@ I’m always trying to learn new things to make myself a better developer and ad
 
 <p>
     <a href="https://manashbharali.ml/">
-        https:://manashbharali.ml
+        https://manashbharali.ml
     </a>
 </p>
 
